@@ -2,7 +2,7 @@
 
 ### Olá!!! 👋
 
-Esse repositório contém os links de alguns dos meus projetos desenvolvidos usando a ferramente Power BI. </br>
+Esse repositório contém os links de alguns dos meus projetos desenvolvidos usando a ferramenta Power BI. </br>
 </br>
 
 ### 🛠️ Tecnologias utilizadas
@@ -16,8 +16,6 @@ Esse repositório contém os links de alguns dos meus projetos desenvolvidos usa
 </br>
 
 ### 📌 Visualização
-</br>
-
 
 #### <a href="https://app.powerbi.com/view?r=eyJrIjoiOGUxMTcyYjgtMzcyZC00MWVmLTg0YzQtNjdmZmIxYzJmNmY3IiwidCI6IjgwZjA5NzYyLWQ5YzAtNDQzZS1iMGFlLTRlOGFiNTdmY2ExOCJ9" rel="nofollow">Dashboard Car Sales [Acesse Clicando Aqui] </a>.
 (Dashboard de controle de Vendas e Devoluções)
