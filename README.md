@@ -27,7 +27,7 @@ Esse repositório contém os links de alguns dos meus projetos desenvolvidos usa
 #### <a href="https://app.powerbi.com/view?r=eyJrIjoiZjhlMWMyODAtNDRhNi00Nzc1LWFmYjEtMDNlNGIwNDk4YjNmIiwidCI6IjgwZjA5NzYyLWQ5YzAtNDQzZS1iMGFlLTRlOGFiNTdmY2ExOCJ9&pageName=ReportSection28afd6d25ddc1bb64d07" rel="nofollow">Business Case - Chamados de Suporte (SAC) [Acesse Clicando Aqui]</a>.
 (Dashboard de Atendimento de Chamados de Suporte (SAC) com SLA)
 
-![](img/suporte.PNG)
+![](img/suporte.gif)
 </br>
 
 
