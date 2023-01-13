@@ -39,3 +39,10 @@ Esse repositório contém os links de alguns dos meus projetos desenvolvidos usa
 
 </br>
 
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiMDI4YWRhMGEtY2IwMC00MmY3LTk4N2MtNDE1YmViNGYwOTBlIiwidCI6IjgwZjA5NzYyLWQ5YzAtNDQzZS1iMGFlLTRlOGFiNTdmY2ExOCJ9" rel="nofollow">Business Case - Dashboard Vendas Moderno [Acesse Clicando Aqui]</a>.
+(Nesse dashboard de vendas, há análises como a comparação do desempenho do ano atual com o ano anterior, cartões com o melhor mês, atingimento de metas, rank de vendedores, tootip e principais influenciadores. )
+
+<img src="img/analise_de_vendas.gif" width="600">
+
+</br>
+
