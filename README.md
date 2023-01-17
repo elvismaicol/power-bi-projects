@@ -9,6 +9,7 @@ Esse repositório contém os links de alguns dos meus projetos desenvolvidos usa
 
 
 * [Power BI](https://powerbi.microsoft.com/pt-br/)
+* [Figma](https://www.figma.com/)
 
 <div styLe="display:inline_block" >
 <img align="center" alt="R" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -40,9 +41,15 @@ Esse repositório contém os links de alguns dos meus projetos desenvolvidos usa
 </br>
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiMDI4YWRhMGEtY2IwMC00MmY3LTk4N2MtNDE1YmViNGYwOTBlIiwidCI6IjgwZjA5NzYyLWQ5YzAtNDQzZS1iMGFlLTRlOGFiNTdmY2ExOCJ9" rel="nofollow">Business Case - Dashboard Vendas Moderno [Acesse Clicando Aqui]</a>.
-(Nesse dashboard de vendas, há análises como a comparação do desempenho do ano atual com o ano anterior, cartões com o melhor mês, atingimento de metas, rank de vendedores, tootip e principais influenciadores. )
+(Nesse dashboard de vendas, há análises como a comparação do desempenho do ano atual com o ano anterior, cartões com o melhor mês, atingimento de metas, rank de vendedores, tootip e principais influenciadores.)
 
 <img src="img/analise_de_vendas.gif" width="600">
 
 </br>
 
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiNmExOTY1ZGYtOTNhYS00YWZiLTkwN2QtNThiMDJjNmU2NWY4IiwidCI6IjgwZjA5NzYyLWQ5YzAtNDQzZS1iMGFlLTRlOGFiNTdmY2ExOCJ9" rel="nofollow">Business Case - Dashboard de Recursos Humanos [Acesse Clicando Aqui]</a>.
+(Neste Dashboard People Analytics é possível acompanhar as contratações, demissões e headcount ao longo do tempo. Há indicadores como turnover, horas extras e absenteísmo.)
+
+<img src="img/rh.gif" width="600">
+
+</br>
